@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2ff1a2ee2951a85faa37b0c4ca6672ec.js"
+  "precache-manifest.46b2650e02d119bf3330dc592bf7fda0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "progressive-vue"});
